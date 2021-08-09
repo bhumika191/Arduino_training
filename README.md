@@ -1,1 +1,1 @@
-# drdo_training_arduino_project
+# Arduino Mega 2560 Training Project
